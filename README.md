@@ -30,7 +30,7 @@ The one-shot RNN is a very simple encoder-decoder recurrent network model which 
     * training: run [demo/one_hot_rnn_train.py](demo/one_hot_rnn_train.py)
     * prediction: run [demo/one_hot_rnn_predict.py](demo/one_hot_rnn_predict.py)
 * Recursive RNN 1 (RecursiveRNN1 in [rnn.py](keras_text_summarization/library/rnn.py)):
-The recursive RNN 1 takes the artcile content and the current built-up summarized text to predict the next character of the summarized text.
+The recursive RNN 1 takes the article content and the current built-up summarized text to predict the next character of the summarized text.
     * training: run [demo/recursive_rnn_v1_train.py](demo/recursive_rnn_v1_train.py)
     * prediction: run [demo/recursive_rnn_v1_predict.py](demo/recursive_rnn_v1_predict.py)
 * Recursive RNN 2 (RecursiveRNN2 in [rnn.py](keras_text_summarization/library/rnn.py)):
